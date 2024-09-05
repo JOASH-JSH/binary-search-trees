@@ -1,0 +1,20 @@
+{
+  "name": "binary-search-trees",
+  "version": "1.0.0",
+  "description": "Learning Binary Search Trees.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --config prettier.config.js '**/*.{js,mjs}' --write  --ignore-path .prettierignore"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "eslint": "^9.9.1",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.9.0",
+    "prettier": "^3.3.3"
+  }
+}
