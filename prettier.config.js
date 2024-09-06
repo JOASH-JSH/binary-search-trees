@@ -3,5 +3,5 @@ export default {
     semi: true,
     trailingComma: 'none',
     tabWidth: 4,
-    printWidth: 80
+    printWidth: 100
 };
